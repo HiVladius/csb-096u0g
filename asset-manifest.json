@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://hivladius.github.io/csb-096u0g/static/js/main.59666251.chunk.js",
+    "main.js.map": "https://hivladius.github.io/csb-096u0g/static/js/main.59666251.chunk.js.map",
+    "runtime-main.js": "https://hivladius.github.io/csb-096u0g/static/js/runtime-main.36a408d9.js",
+    "runtime-main.js.map": "https://hivladius.github.io/csb-096u0g/static/js/runtime-main.36a408d9.js.map",
+    "static/js/2.4850126e.chunk.js": "https://hivladius.github.io/csb-096u0g/static/js/2.4850126e.chunk.js",
+    "static/js/2.4850126e.chunk.js.map": "https://hivladius.github.io/csb-096u0g/static/js/2.4850126e.chunk.js.map",
+    "index.html": "https://hivladius.github.io/csb-096u0g/index.html",
+    "static/js/2.4850126e.chunk.js.LICENSE.txt": "https://hivladius.github.io/csb-096u0g/static/js/2.4850126e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36a408d9.js",
+    "static/js/2.4850126e.chunk.js",
+    "static/js/main.59666251.chunk.js"
+  ]
+}
